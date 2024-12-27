@@ -90,9 +90,6 @@
 }
 
 
-
-
-
 /*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
@@ -155,8 +152,6 @@ body {
 
 
 
-
-
 /*-----------------------------------*\
   #REUSED STYLE
 \*-----------------------------------*/
@@ -178,7 +173,9 @@ body {
 }
 
 .btn:is(:hover, :focus) { background-position: right; }
-
+/* change by me */
+.navbar-item:hover { background-color: var(--chrome-yellow) ; }
+/* end of change */
 .w-100 { width: 100%; }
 
 .banner-animation { animation: waveAnim 2s linear infinite alternate; }
