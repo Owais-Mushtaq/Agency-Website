@@ -1,54 +1,37 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/desinic?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/desinic?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SjhiZ_ySGzA?style=social)](https://youtu.be/SjhiZ_ySGzA)
+# Agency Website
 
-  <br />
-  <br />
+This is a digital agency website template designed to showcase the services, features, and contact information of a digital agency. The website is built using HTML, CSS, and JavaScript.
 
-  <h2 align="center">Desinic - Agency website</h2>
+## Features
 
-  Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+- Responsive design
+- Hero section with a call-to-action button
+- About section with statistics
+- Services section highlighting specializations
+- Features section detailing key offerings
+- Contact form to get in touch
+- Footer with social media links
 
-  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
+## Installation
 
-</div>
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Owais-Mushtaq/agency-website.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd agency-website
+   ```
 
-<br />
+## Usage
 
-### Demo Screeshots
+1. Open the `index.html` file in your web browser to view the website.
+2. Customize the content and styles as needed by editing the HTML, CSS, and JavaScript files in the `assets` directory.
 
-![Desinic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## Contributing
 
-### Prerequisites
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-Before you begin, ensure you have met the following requirements:
+## License
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Desinic** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/desinic.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/desinic.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Free to use.
